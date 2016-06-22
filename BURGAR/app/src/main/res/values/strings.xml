@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Burguard</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="alarm_on_off">Alarm on/off</string>
+    <string name="plussign">+</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full name</string>
+    <string name="register">Register</string>
+    <string name="link_to_register">Not a member? Sign up now.</string>
+    <string name="link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">Logout</string>
+    <string name="name">Fullname</string>
+    <string name="scan_bluetooth_devices">Scan for crownstones</string>
+    <string name="stop_scan_bluetooth_devices">Stop scan for crownstones</string>
+    <string name="add">Add</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="add_new_entry">Add new entry</string>
+    <string name="turn_on_off">Turn on / off</string>
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="toFriendlist">To Friendlist</string>
+    <string name="delete_title">Delete</string>
+    <string name="delete_dialog">Are you sure you want to remove this friend?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
