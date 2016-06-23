@@ -3,7 +3,6 @@ package com.mentos.menno.burguard;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -18,7 +17,6 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.mentos.menno.burguard.app.AppConfig;
 import com.mentos.menno.burguard.app.AppController;
-import com.mentos.menno.burguard.app.RegisterActivity;
 import com.mentos.menno.burguard.helper.SQLiteHandler;
 import com.mentos.menno.burguard.helper.SessionManager;
 

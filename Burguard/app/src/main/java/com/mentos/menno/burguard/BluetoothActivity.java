@@ -220,10 +220,10 @@ public class BluetoothActivity extends AppCompatActivity {
         if(session.isLoggedIn())
         {
             session.setLogin(false);
-            Intent intent = new Intent(BluetoothActivity.this, LoginActivity.class);
-            startActivity(intent);
-            finish();
         }
+        Intent intent = new Intent(BluetoothActivity.this, LoginActivity.class);
+        startActivity(intent);
+        finish();
     }
 
     @Override
